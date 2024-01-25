@@ -1,0 +1,34 @@
+.Main-container{
+    /* background-color: #fbfafa; */
+    /* height: 300px; */
+    margin-top: -23px;
+}
+
+.mpcategories-heading{
+    font-size: 33px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    /* padding-top: 50px; */
+}
+
+.box-1{
+   
+    text-align: center;
+    background-color:  rgb(211, 208, 208);
+    border-radius: 12px;
+}
+.box-1 :hover{
+    background-color: rgb(161, 160, 160);
+}
+.resutrant-heading{
+    font-size: 25px;
+    padding-top: 5px;
+    padding-left: 30px;
+    margin-bottom: 0px;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 5px;
+    text-align: center;
+    
+}
