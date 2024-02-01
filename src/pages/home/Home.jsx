@@ -4,6 +4,7 @@ import { HomeSliderComponent } from "../../components/home-slider/home-slider.co
 import { HomeCards } from "../../components/card/card.component";
 import { Popularcategories } from "../../components/categories/categories.component";
 import { Footer } from "../../components/footer/footer.component";
+import { HowitWorks } from "../../components/how_itworks/how_itworks.component";
 
 
 const Home = () => {
@@ -15,6 +16,8 @@ const Home = () => {
       <Popularcategories></Popularcategories>
       <br></br> <br></br> <br></br><br></br><br></br>
       <HomeCards></HomeCards>
+      <br></br><br></br>
+      <HowitWorks></HowitWorks>
       <br></br><br></br>
       <Footer></Footer>
 

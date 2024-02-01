@@ -3,6 +3,7 @@
   min-height: 92px;
   display: flex;
   flex-direction: column;
+  background-color: #d6d6d6;
 }
 
 .header-top-container {

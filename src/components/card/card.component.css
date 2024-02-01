@@ -1,8 +1,34 @@
-.homecard{
+
+.homecard {
     display: flex;
-}
-.cards_button{
+} 
+.cards_button {
     margin-top: 25px;
     margin-left: 70px;
 }
 
+.mpcategories-heading {
+    font-size: 33px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    
+}
+ 
+
+.directory-catergory{
+    margin-left: 0px;
+}
+
+.directory-catergory button {
+    width: 180px;
+    font-size: 28px;
+    border-radius: 9px;
+    border: none;
+    background-color: darkgreen;
+}
+
+.directory-catergory button:hover {
+    background-color: darkorange;
+    border: 2px soild darkgoldenrod;
+} 

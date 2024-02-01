@@ -1,0 +1,36 @@
+/* src/SignUp.css */
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient();
+  }
+  
+  .signup-form {
+    width: 80%; /* Adjust the width as needed */
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-toggle {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .form-toggle button {
+    flex: 1;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .form-toggle button.active {
+    background-color: #4caf50;
+    color: #fff;
+  }
